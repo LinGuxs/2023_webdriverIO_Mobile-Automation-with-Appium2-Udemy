@@ -1,0 +1,9 @@
+//https://webdriver.io/docs/autocompletion/
+https://webdriver.io/docs/babel/
+https://github.com/dilpreetj/webdriverio-appium-course/blob/master/.eslintrc
+https://www.npmjs.com/package/eslint-plugin-wdio
+
+
+https://app.saucelabs.com/getting-started/guides/selenium
+
+bs://2fcc3018c5d6ed4ced0b80dcb3f352d52dd0a5c9
